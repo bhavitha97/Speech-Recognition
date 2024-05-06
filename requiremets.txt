@@ -1,0 +1,4 @@
+Flask==2.0.1
+google-cloud-speech==2.8.0
+google-cloud-language==2.4.0
+pydub==0.25.1
