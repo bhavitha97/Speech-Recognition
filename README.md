@@ -68,7 +68,3 @@ To run the Flask application in VSCode, follow these steps:
 - **File Upload Limit**: If you encounter issues with file uploads, check the maximum file size limit configured in the Flask application (`MAX_CONTENT_LENGTH`).
 
 - **Debugging**: If you encounter errors or issues while running the application in VSCode, check the debug console for error messages and consult the Flask documentation for troubleshooting.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
