@@ -1,4 +1,4 @@
-# Speech Analysis Flask App
+# Speech Recognition Web App
 
 This Flask web application performs speech-to-text transcription and sentiment analysis on uploaded audio files using Google Cloud Speech-to-Text and Natural Language APIs.
 
